@@ -1,0 +1,12 @@
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/Main.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/model/Auditable.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/model/Customer.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/model/Invoice.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/model/InvoiceItem.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/model/InvoiceStatus.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/model/Product.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/model/ProductCategory.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/model/TaxStrategy.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/repository/Repository.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/service/InvoiceService.java
+/Users/estebanochoa/Desktop/Tec/Semestre6/javaIvan/Sprint2, Module 11 Java Development (Axel)/facturacion/src/main/java/com/facturacion/view/ConsoleView.java

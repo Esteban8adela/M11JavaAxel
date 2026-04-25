@@ -1,0 +1,12 @@
+src/main/java/com/facturacion/model/ProductCategory.java
+src/main/java/com/facturacion/model/Auditable.java
+src/main/java/com/facturacion/model/TaxStrategy.java
+src/main/java/com/facturacion/model/InvoiceStatus.java
+src/main/java/com/facturacion/model/Customer.java
+src/main/java/com/facturacion/model/Product.java
+src/main/java/com/facturacion/model/InvoiceItem.java
+src/main/java/com/facturacion/model/Invoice.java
+src/main/java/com/facturacion/view/ConsoleView.java
+src/main/java/com/facturacion/repository/Repository.java
+src/main/java/com/facturacion/service/InvoiceService.java
+src/main/java/com/facturacion/Main.java

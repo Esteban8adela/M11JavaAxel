@@ -1,0 +1,12 @@
+com/facturacion/model/InvoiceItem.class
+com/facturacion/view/ConsoleView.class
+com/facturacion/repository/Repository.class
+com/facturacion/model/Auditable.class
+com/facturacion/Main.class
+com/facturacion/model/TaxStrategy.class
+com/facturacion/model/Invoice.class
+com/facturacion/model/InvoiceStatus.class
+com/facturacion/service/InvoiceService.class
+com/facturacion/model/Customer.class
+com/facturacion/model/ProductCategory.class
+com/facturacion/model/Product.class
